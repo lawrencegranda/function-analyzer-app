@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>F:\School\Classes\1R - Computer Science 1 H\#A Projects\function-analyzer\out\artifacts\function_analyzer_jar\function-analyzer.jar</jar>
+  <outfile>F:\School\Classes\1R - Computer Science 1 H\#A Projects\function-analyzer\out\artifacts\function_analyzer_exe\function-analyzer.exe</outfile>
+  <errTitle>Error: you have to get Java.</errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>normal</priority>
+  <downloadUrl>http://java.com/download</downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>false</stayAlive>
+  <restartOnCrash>false</restartOnCrash>
+  <manifest></manifest>
+  <icon>F:\School\Classes\1R - Computer Science 1 H\#A Projects\function-analyzer\src\main\resources\logo.ico</icon>
+  <jre>
+    <path></path>
+    <bundledJre64Bit>false</bundledJre64Bit>
+    <bundledJreAsFallback>false</bundledJreAsFallback>
+    <minVersion>1.8.0</minVersion>
+    <maxVersion></maxVersion>
+    <jdkPreference>preferJre</jdkPreference>
+    <runtimeBits>64/32</runtimeBits>
+  </jre>
+</launch4jConfig>
